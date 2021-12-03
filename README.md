@@ -3,7 +3,7 @@ Test-repo to try out GraphQL api calls on mobilizon
 
 ## config
 - copy config.sample.php to config.php
-- replace startvalues, put in your mobilizon URl, and if needed your user email and password
+- replace startvalues, put in your mobilizon URL, and if needed your user email and password
 
 see test.php to make some basic calls
 
